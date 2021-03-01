@@ -1,2 +1,3 @@
-# Snake
-Snake game directly playable from command line!
+# Snake 
+Snake on command line. 
+(My first C++ project!)
